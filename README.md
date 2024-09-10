@@ -1,4 +1,4 @@
-Sera Payment Analytics Project by Resagratia
+## Sera Payment Analytics Project by Resagratia
 
 This project focuses on analyzing payment transactions for Sera, a company that processes payments in multiple currencies and across different channels. Using SQL for data extraction and Tableau for visualization, the goal is to provide insights into transaction trends, revenue growth, and user activity. The project covers analysis of successful, abandoned, and failed transactions while highlighting revenue trends in both NGN and USD.
 
@@ -38,7 +38,7 @@ sera-payment-analytics/
   
 
 2. **Tableau Dashboard**:
-   - The main visual deliverable is an interactive Tableau dashboard. The dashboard includes charts for revenue trends in both NGN and USD, subscriber growth, KPIs for the current month’s performance, and a map showing where payment attempts originate.
+   - The main visual deliverable is a Tableau dashboard. The dashboard includes charts for revenue trends in both NGN and USD, subscriber growth, KPIs for the current month’s performance, and a map showing where payment attempts originate.
    - You can view the Tableau dashboard [[[here](https://public.tableau.com/app/profile/tolulope.okerayi/viz/Book1_17259781765270/SERASALESDASHBOARD?publish=yes)]
    - 
 ## Tableau Visualizations
@@ -58,17 +58,6 @@ sera-payment-analytics/
 
 5. **Channel and Card Type Analysis**:
    - This analysis shows successful payments broken down by payment channel (e.g., card, bank transfer) and card type (credit vs debit).
-
-
-## How to Use the Project
-
-### Step 1: Run SQL Queries
-- The SQL queries are available in the `sql/` folder. You can run these queries on a PostgreSQL database that contains the `sera_data.csv` file.
-- The queries will generate insights such as total transactions, revenue trends, and success rates.
-
-### Step 2: Use Tableau for Visualization
-- The Tableau `.twbx` file can be found in the `tableau/` folder.
-- Open the file in Tableau Desktop to explore the pre-built visualizations, KPIs, and dashboards.
 
 ## Insights
 
