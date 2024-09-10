@@ -68,6 +68,4 @@ sera-payment-analytics/
 
 ## Future Enhancements
 
-- **Predictive Analytics**: Adding machine learning models to predict transaction outcomes (e.g., success or failure).
 - **User Segmentation**: Further analysis to segment users based on transaction behavior and trends.
-- **Churn Prediction**: Implementing models to predict customer churn based on user activity.
