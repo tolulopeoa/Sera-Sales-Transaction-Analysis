@@ -38,7 +38,7 @@ sera-payment-analytics/
 
 2. **Tableau Dashboard**:
    - The main visual deliverable is a Tableau dashboard. The dashboard includes charts for revenue trends in both NGN and USD, subscriber growth, KPIs for the current month’s performance, and a map showing where payment attempts originate.
-   - You can view the Tableau dashboard [[[here](https://public.tableau.com/app/profile/tolulope.okerayi/viz/Book1_17259781765270/SERASALESDASHBOARD?publish=yes)]
+   - You can view the Tableau dashboard [[here](https://public.tableau.com/shared/3B7D5HD9T?:display_count=n&:origin=viz_share_link)]
    - 
 ## Tableau Visualizations
 
@@ -65,6 +65,3 @@ sera-payment-analytics/
 - **Transaction Success Rates**: Bank transfers and Mastercard debit cards have the highest success rates, while card payments have a relatively higher abandonment rate.
 - **Geographical Analysis**: Most payment attempts originate from Nigeria, followed by the United States, United Kingdom, and Canada.
 
-## Future Enhancements
-
-- **User Segmentation**: Further analysis to segment users based on transaction behavior and trends.
