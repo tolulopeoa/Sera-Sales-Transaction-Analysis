@@ -28,7 +28,6 @@ sera-payment-analytics/
 ├── tableau/           # Contains Tableau workbook with dashboards
 │   └── sera_dashboard.twbx
 ├── README.md          # This file
-└── LICENSE            # License file for the project
 ```
 
 ## Key Deliverables
